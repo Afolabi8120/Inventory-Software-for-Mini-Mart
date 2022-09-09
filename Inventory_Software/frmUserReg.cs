@@ -64,18 +64,18 @@ namespace Inventory_Software
 
         private void frmUserReg_Load(object sender, EventArgs e)
         {
-            cn.Open();
-            cm = new MySqlCommand("SELECT COUNT(username) FROM tbluser", cn);
-            int counter = int.Parse(cm.ExecuteScalar().ToString());
-            cn.Close();
+            //cn.Open();
+            //cm = new MySqlCommand("SELECT COUNT(username) FROM tbluser", cn);
+            //int counter = int.Parse(cm.ExecuteScalar().ToString());
+            //cn.Close();
 
             
-            if (counter > 0)
-            {
-                this.Hide();
-                frmLogin f1 = new frmLogin();
-                f1.ShowDialog();
-            }
+            //if (counter > 0)
+            //{
+            //    this.Hide();
+            //    frmLogin f1 = new frmLogin();
+            //    f1.ShowDialog();
+            //}
         }
 
         private void btnCancel_Click(object sender, EventArgs e)

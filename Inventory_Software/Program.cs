@@ -16,7 +16,7 @@ namespace Inventory_Software
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmUserReg());
+            Application.Run(new frmLogin());
         }
     }
 }

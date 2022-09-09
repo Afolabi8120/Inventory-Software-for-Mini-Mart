@@ -1,0 +1,149 @@
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\bin\Debug\Inventory_Software.exe.config
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\bin\Debug\Inventory_Software.exe
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\bin\Debug\Inventory_Software.pdb
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\bin\Debug\mysql.data.dll
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmAllStockReport.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmCashier.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmChangePassword.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmLogin.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmMainmenu.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmPaymentReceipt.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmReportRecord.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmSalesHistory.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmSearchProduct.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmStockAdjustmentReport.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmStockInHistoryReport.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmSystemLock.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.Properties.Resources.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucCategory.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucChangePassword.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucProduct.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucStockAdjustment.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucStockEntry.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucStoreSettings.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucDashboard.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucManageUser.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucSupplier.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.csproj.GenerateResource.Cache
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\RdlCompile.cache
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\RdlCompile.compiled
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.exe
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.pdb
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.csprojResolveAssemblyReference.cache
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmBarcode.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmBarcodeReport.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmPaymentReport.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\bin\Debug\mysqlbackup.dll
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmAbout.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\bin\Debug\Inventory_Software.exe.config
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.exe
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.pdb
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\bin\Debug\Inventory_Software.exe
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\bin\Debug\Inventory_Software.pdb
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\bin\Debug\mysqlbackup.dll
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.csprojResolveAssemblyReference.cache
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmAbout.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmAllStockReport.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmBarcode.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmBarcodeReport.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmCashier.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmChangePassword.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmLogin.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmMainmenu.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmPaymentReceipt.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmPaymentReport.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmReportRecord.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmSalesHistory.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmSearchProduct.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmStockAdjustmentReport.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmStockInHistoryReport.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmSystemLock.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.Properties.Resources.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucCategory.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucChangePassword.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucProduct.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucStockAdjustment.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucStockEntry.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucStoreSettings.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucDashboard.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucManageUser.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucSupplier.resources
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.csproj.GenerateResource.Cache
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\RdlCompile.cache
+C:\Users\MIKE\Documents\Projects\Inventory_Software\Inventory_Software\obj\Debug\RdlCompile.compiled
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\bin\Debug\Inventory_Software.exe.config
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.exe
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.pdb
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\bin\Debug\Inventory_Software.exe
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\bin\Debug\Inventory_Software.pdb
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\bin\Debug\mysqlbackup.dll
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.csprojResolveAssemblyReference.cache
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmAbout.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmAllStockReport.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmBarcode.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmBarcodeReport.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmCashier.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmChangePassword.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmLogin.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmMainmenu.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmPaymentReceipt.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmPaymentReport.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmReportRecord.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmSalesHistory.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmSearchProduct.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmStockAdjustmentReport.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmStockInHistoryReport.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmSystemLock.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.Properties.Resources.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucCategory.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucChangePassword.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucProduct.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucStockAdjustment.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucStockEntry.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucStoreSettings.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucDashboard.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucManageUser.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucSupplier.resources
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.csproj.GenerateResource.Cache
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\RdlCompile.cache
+C:\Users\Temidayo\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\RdlCompile.compiled
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\bin\Debug\Inventory_Software.exe.config
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.exe
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.pdb
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\bin\Debug\Inventory_Software.exe
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\bin\Debug\Inventory_Software.pdb
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.csprojResolveAssemblyReference.cache
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmAbout.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmAllStockReport.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmBarcode.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmBarcodeReport.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmCashier.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmChangePassword.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmLogin.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmMainmenu.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmPaymentReceipt.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmPaymentReport.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmReportRecord.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmSalesHistory.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmSearchProduct.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmStockAdjustmentReport.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmStockInHistoryReport.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmSystemLock.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.Properties.Resources.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucCategory.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucChangePassword.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucProduct.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucStockAdjustment.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucStockEntry.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucStoreSettings.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucDashboard.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucManageUser.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.ucSupplier.resources
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.csproj.GenerateResource.Cache
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\RdlCompile.cache
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\RdlCompile.compiled
+C:\Users\PERSONAL COMPUTER\Documents\Visual Studio 2012\Projects\Inventory_Software\Inventory_Software\obj\Debug\Inventory_Software.frmUserReg.resources

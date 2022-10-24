@@ -163,6 +163,7 @@
             // 
             // btnCalculator
             // 
+            this.btnCalculator.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnCalculator.BackColor = System.Drawing.Color.Transparent;
             this.btnCalculator.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCalculator.FlatAppearance.BorderSize = 0;
@@ -180,6 +181,7 @@
             // 
             // btnNotePad
             // 
+            this.btnNotePad.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnNotePad.BackColor = System.Drawing.Color.Transparent;
             this.btnNotePad.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnNotePad.FlatAppearance.BorderSize = 0;
@@ -249,6 +251,7 @@
             // 
             // btnHelp
             // 
+            this.btnHelp.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnHelp.BackColor = System.Drawing.Color.Transparent;
             this.btnHelp.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnHelp.FlatAppearance.BorderSize = 0;
@@ -512,11 +515,11 @@
             // 
             // lblTime
             // 
-            this.lblTime.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblTime.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblTime.BackColor = System.Drawing.Color.Transparent;
             this.lblTime.Font = new System.Drawing.Font("Calibri", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTime.ForeColor = System.Drawing.Color.White;
-            this.lblTime.Location = new System.Drawing.Point(3, 444);
+            this.lblTime.Location = new System.Drawing.Point(3, 445);
             this.lblTime.Name = "lblTime";
             this.lblTime.Size = new System.Drawing.Size(285, 52);
             this.lblTime.TabIndex = 10;
@@ -525,11 +528,11 @@
             // 
             // lblDate
             // 
-            this.lblDate.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblDate.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblDate.BackColor = System.Drawing.Color.Transparent;
             this.lblDate.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDate.ForeColor = System.Drawing.Color.White;
-            this.lblDate.Location = new System.Drawing.Point(2, 507);
+            this.lblDate.Location = new System.Drawing.Point(2, 508);
             this.lblDate.Name = "lblDate";
             this.lblDate.Size = new System.Drawing.Size(285, 42);
             this.lblDate.TabIndex = 11;
@@ -784,6 +787,7 @@
             this.MinimizeBox = false;
             this.Name = "frmCashier";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.frmCashier_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.frmCashier_KeyDown);
             this.panel1.ResumeLayout(false);

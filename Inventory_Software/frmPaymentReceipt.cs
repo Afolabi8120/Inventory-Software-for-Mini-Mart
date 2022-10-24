@@ -114,5 +114,10 @@ namespace Inventory_Software
             dr.Close();
             cn.Close();
         }
+
+        private void btnPrint_Click(object sender, EventArgs e)
+        {
+            this.reportViewer1.PrintDialog();
+        }
     }
 }

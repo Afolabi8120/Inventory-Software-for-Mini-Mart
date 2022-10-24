@@ -284,7 +284,7 @@ namespace Inventory_Software
             string getbarcode = txtBarcode.Text;
             cn.Close();
             cn.Open();
-            cm = new MySqlCommand("SELECT * FROM tblproduct WHERE barcode=@barcode AND status=@status", cn);
+            cm = new MySqlCommand("SELECT * FROM tblproduct WHERE barcode=@barcode", cn);
             cm.Parameters.AddWithValue("@barcode", txtBarcode.Text);
             cm.Parameters.AddWithValue("@status", "Active");
             dr = cm.ExecuteReader();
@@ -293,30 +293,50 @@ namespace Inventory_Software
             {
                 cn.Close();
                 cn.Open();
-                cm = new MySqlCommand("SELECT * FROM tblproduct WHERE barcode=@barcode AND quantity > 0", cn);
+                cm = new MySqlCommand("SELECT * FROM tblproduct WHERE barcode=@barcode AND status=@status", cn);
                 cm.Parameters.AddWithValue("@barcode", txtBarcode.Text);
+                cm.Parameters.AddWithValue("@status", "Active");
                 dr = cm.ExecuteReader();
                 dr.Read();
                 if (dr.HasRows)
                 {
-                    p_code = dr["code"].ToString();
-                    p_name = dr["pname"].ToString();
-                    p_price = dr["price"].ToString();
-                    p_qty = dr["quantity"].ToString();
+                    cn.Close();
+                    cn.Open();
+                    cm = new MySqlCommand("SELECT * FROM tblproduct WHERE barcode=@barcode AND quantity > 0", cn);
+                    cm.Parameters.AddWithValue("@barcode", txtBarcode.Text);
+                    dr = cm.ExecuteReader();
+                    dr.Read();
+                    if (dr.HasRows)
+                    {
+                        p_code = dr["code"].ToString();
+                        p_name = dr["pname"].ToString();
+                        p_price = dr["price"].ToString();
+                        p_qty = dr["quantity"].ToString();
 
-                    found = true;
+                        found = true;
+                    }
+                    else
+                    {
+                        found = false;
+                    }
                 }
                 else
                 {
-                    found = false;
+                    cn.Close();
+                    dr.Close();
+                    txtBarcode.Clear();
+                    MessageBox.Show("This Item is In-active, Please make some adjustment", "INACTIVE PRODUCT", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
                 }
+                cn.Close();
+                dr.Close();
             }
             else
             {
                 cn.Close();
                 dr.Close();
                 txtBarcode.Clear();
-                MessageBox.Show("This Item is In-active, Please make some adjustment", "INACTIVE PRODUCT", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Invalid Product Code", "INVALID PRODUCT CODE", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
             cn.Close();
@@ -624,13 +644,18 @@ namespace Inventory_Software
                     cn.Close();
                     MessageBox.Show("Transaction has been saved successfully", "SUCCESS", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-                    if (MessageBox.Show("Print Receipt?", "ALERT", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
-                    {
-                        createInvoiceNo();
-                        frmPaymentReceipt fpay = new frmPaymentReceipt();
-                        fpay.invoiceno = this.lblInvoiceNo.Text;
-                        fpay.ShowDialog();
-                    }
+                    //if (MessageBox.Show("Print Receipt?", "ALERT", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                    //{
+                    //    createInvoiceNo();
+                    //    frmPaymentReceipt fpay = new frmPaymentReceipt();
+                    //    fpay.invoiceno = this.lblInvoiceNo.Text;
+                    //    fpay.ShowDialog();
+                    //}
+                    createInvoiceNo();
+                    frmPaymentReceipt fpay = new frmPaymentReceipt();
+                    fpay.invoiceno = this.lblInvoiceNo.Text;
+                    fpay.ShowDialog();
+
                     lblInvoiceNo.Text = createInvoiceNo();
                     getCart();
                     lblItemCount.Text = "0";

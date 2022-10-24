@@ -149,8 +149,8 @@ namespace Inventory_Software
                             cm.Parameters.AddWithValue("@category", cboCategory.Text);
                             cm.Parameters.AddWithValue("@description", txtDescription.Text);
                             cm.Parameters.AddWithValue("@status", cboStatus.Text);
-                            cm.Parameters.AddWithValue("@quantity", "");
-                            cm.Parameters.AddWithValue("@price", "");
+                            cm.Parameters.AddWithValue("@quantity", "0");
+                            cm.Parameters.AddWithValue("@price", "0.00");
                             cm.Parameters.AddWithValue("@picture", bytImage);
                             cm.ExecuteNonQuery();
                             cn.Close();
